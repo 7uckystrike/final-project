@@ -14,6 +14,7 @@
 <br/>
 
 <h3>3. 이미지</h3>
+
 데스크탑
 ![final1](https://user-images.githubusercontent.com/100673856/158586706-0f6cfde2-c28e-41d9-be57-2c5b469413d9.gif)
 
