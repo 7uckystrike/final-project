@@ -16,9 +16,13 @@
 <h3>3. 이미지</h3>
 데스크탑
 ![final1](https://user-images.githubusercontent.com/100673856/158586706-0f6cfde2-c28e-41d9-be57-2c5b469413d9.gif)
+
 <br/>
+
 모바일
 ![final2](https://user-images.githubusercontent.com/100673856/158586720-af148eec-3480-4cf2-9cdd-94f7ae654b01.gif)
+
 </br>
+
 반응웹 과정
 ![final3](https://user-images.githubusercontent.com/100673856/158586729-599fe9ac-6b02-4415-9f37-9bfd2ab262dc.gif)
